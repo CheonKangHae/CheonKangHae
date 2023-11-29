@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# <h3 align="center"> 😄Kanghae`s Github😄 </h3>
+<p align="center"> 👋Hi there! I am studying Python & Data engineering </p>
+<p align="center">I will try to record what I study on github constantly!</p>
 <!-- github 통계를 프로필에 표시 -->
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
@@ -19,10 +20,3 @@
   <a href="mailto:tim605@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=tim605@naver.com"/></a>
 </p>
 
-- 🌱 I’m currently learning : Python & Data engineering
-- 👯 I’m looking to collaborate on 프로젝트
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- 📫 How to reach me: 이메일
-- 😄 Pronouns: 
-- ⚡ Fun fact:

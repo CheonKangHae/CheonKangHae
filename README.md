@@ -1,4 +1,4 @@
-# <h3 align="center"> 😄Kanghae`s Github😄 </h3>
+# <h3 align="center"> 😄newbie`s Github😄 </h3>
 <p align="center"> 👋Hi there! I am studying Python & Data engineering </p>
 <p align="center">I will try to record what I study on github constantly!</p>
 <!-- github 통계를 프로필에 표시 -->

@@ -16,7 +16,7 @@
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://www.instagram.com/rev3rsun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rev3rsun/"/></a>&nbsp
-  <a href="mailto:tim605@naver.com"><img src="https://img.shields.io/badge/Naver-#03C75A?style=flat-square&logo=Naver&logoColor=green&link=tim605@naver.com"/></a>
+  <a href="mailto:tim605@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=tim605@naver.com"/></a>
 </p>
 
 - 🌱 I’m currently learning : Python & Data engineering
@@ -26,4 +26,3 @@
 - 📫 How to reach me: 이메일
 - 😄 Pronouns: 
 - ⚡ Fun fact:
-
